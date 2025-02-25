@@ -1,0 +1,8 @@
+{
+  "language": ["C++", "Goo", "Java", "JavaScript", "PHP", "Python", "Ruby", "Kotlin"],
+  "stars": ["0..100","200","<200", ">500", ">1000"],
+  "forks": ["<5", "50..100", "200", ">500"],
+  "is": ["public", "private", "issue", "pr"],
+  "license": ["BSD Zero Clause License", "MIT License", "Apache License 2.0", "Creative Commons", "GNU General Public License"],
+  "sort": ["interactions", "interactions-asc", "reactions", "reactions-asc", "author-data"]
+}

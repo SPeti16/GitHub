@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitHub Repository Search</string>
+    <string name="url_base">https://api.github.com/</string>
+
+    <string name="main_search">Search</string>
+
+    <string name="details_profile">Profile</string>
+    <string name="details_repository">Repository</string>
+</resources>
